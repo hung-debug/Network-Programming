@@ -24,12 +24,7 @@ Học phần trang bị cho người học những kiến thức nền tảng c�
 
 ## 🔧 2. Ngôn ngữ lập trình sử dụng: [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
-## 🚀 3. Các project đã thực hiện
 
-### [Khoá 16](./docs/projects/K16/README.md)
 
-## 📝 4. License
-
-© 2025 AIoTLab, Faculty of Information Technology, DaiNam University. All rights reserved.
 
 ---
