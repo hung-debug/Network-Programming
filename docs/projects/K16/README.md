@@ -62,7 +62,7 @@
 | Đề số 3. Truyền file qua TCP | Nguyễn Đức Anh | [:octocat:github](https://github.com/nguyenducanh1152004/LTM-16_04--eso-3.-Truyen-file-qua-TCP.git) | |
 | Đề số 3. Truyền file qua TCP | Phạm Thành Hưng | [:octocat:github](https://github.com/PhamHgun-0709/LTM-1604-D03-File-TCP.git) | |
 | Đề số 4. Truyền file qua UDP | Nguyễn Tuấn Anh | [:octocat:github](https://github.com/tuananh12pt/LTM-1604-D04-UDP) | |
-| Đề số 4. Gửi file qua UDP | Trịnh Việt Hưng | [:octocat:github](https://github.com/hung-debug/Network-Programming/tree/dev-hung) | |
+| Đề số 4. Gửi file qua UDP | Trịnh Việt Hưng | [:octocat:github](https://github.com/hung-debug/Lap_Trinh_Mang_1604_004Truyen-file-UDP.git) | |
 | Đề số 5. Quản lý sinh viên bằng RMI | Tạ Việt Anh |[:octocat:github](https://github.com/vitconxinhxinh/LTM-1604--D05-QLSV-RMI.git) | |
 | Đề số 6. Quản lý sách – thư viện qua mạng | Đào Duy Mạnh | [:octocat:github](https://github.com/DaoDuyManh/LTM-1604-D06-QuanLyThuVien-TCP.git) | |
 | Đề số 7. Hệ thống đăng nhập Client-Server | Đặng Thanh Bình | [:octocat:github](https://github.com/dtb0405/LTM-1604-D07-Sign-in-Client-Server.git) | |
@@ -85,4 +85,5 @@
 | Đề số 18. Ứng dụng trắc nghiệm trực tuyến | Khổng Minh Hoài | [:octocat:github](https://github.com/minhhoai55/LTM-1604-D18-AppTestOnline.git) | |
 | Đề số 19. Hệ thống quản lý ngân hàng mini | Lê Bá Hoan | [:octocat:github](https://github.com/h0an12/LTM-16-04-D19-Chat-UDP.git) | |
 | Đề số 20. Hệ thống cảnh báo thời gian thực (Server gửi cảnh báo tới nhiều client qua UDP) | Lã Việt Hoàng | [:octocat:github](https://github.com/Tabisan805/LTM-1604-De20-Alert-Notification-UDP) | |
+
 
